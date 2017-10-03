@@ -1,2 +1,5 @@
 仓储创建clone测试成功
 开始上传测试
+上传测试成功
+创建分支developedinlab，developedindorm成功
+开始分支上传测试，上传至developedinlab
